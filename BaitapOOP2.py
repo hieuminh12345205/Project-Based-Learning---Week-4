@@ -21,7 +21,7 @@ class BankAccount:
         elif amount > self.__balance:
             print("Số dư không đủ để rút tiền")
         else:
-            print("Số tiền rút phải lớn hơn 0")
+            print("Số tiền rút phải lớn hơn 0.")
     
     def get_balance(self):
         return self.__balance

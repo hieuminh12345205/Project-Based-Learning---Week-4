@@ -41,5 +41,5 @@ if __name__ == "__main__":
     
     # Create a Bike object
     bike = Bike("Trek", "FX 3", 2022, "road")
-    print("Bike information:")
+    print("Bike. information:")
     bike.display_info()

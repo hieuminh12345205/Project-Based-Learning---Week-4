@@ -23,7 +23,7 @@ class Student(Person):
 
 # Create a student object and call methods
 if __name__ == "__main__":
-    student = Student("Nguyễn Văn A", 20, "SV001")
+    student = Student("Nguyễn Văn A.", 20, "SV001")
     
     print(student.introduce())
     print(student.study())

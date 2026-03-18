@@ -13,7 +13,7 @@ class Book:
 
 # Tạo các đối tượng Book
 book1 = Book("Người Thầy Đáng Kính", "Nguyễn Nhật Ánh", 1992)
-book2 = Book("Những Đứa Con Trong Gia Đình Tôi", "Nguyễn Ngọc Tư", 2018)
+book2 = Book("Những Đứa Con Trong Gia Đình Tôi", "Nguyễn Ngọc Tư.", 2018)
 
 # Hiển thị thông tin sách
 print("Thông tin sách:")
